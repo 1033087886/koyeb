@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: rose980/rose980
-          username: '${{ secrets.DOCKER_USERNAME }}'
-          password: '${{ secrets.DOCKER_PASSWORD }}'
+          username: '${{ rose980 }}'
+          password: '${{ Yls19980731 }}'
